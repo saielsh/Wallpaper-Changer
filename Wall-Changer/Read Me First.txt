@@ -1,0 +1,13 @@
+Thanks for downloading my software.
+
+Features:
+
+- Changes wallpaper every minute.
+- Does not repeat wallpaper.
+- Runs on windows startup.
+- Runs Without console.
+
+Things to remember:
+
+- Suports png, jpg\jpeg formats only.
+- You can close this software throught Taskmanager and Details.
